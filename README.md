@@ -45,10 +45,8 @@ Follow these commands to install the tool:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/isme4/Password-Generator.git](https://github.com/isme4/Password-Generator.git)
+git clone https://github.com/isme4/Password-Generator.git
 cd Password-Generator
-
 chmod +x Generator.php
-
 php Generator.php
 
